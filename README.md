@@ -7,9 +7,9 @@
 ## Installing
 
 ```
-npm i weex-store --save-dev
+npm i weex-store --save
 # or
-yarn add weex-store --dev
+yarn add weex-store
 ```
 
 ## Example
