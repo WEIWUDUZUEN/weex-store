@@ -1,6 +1,6 @@
 {
   "name": "weex-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "weex stream 扩展封装基于 vuex api",
   "main": "dist/index.js",
   "scripts": {
